@@ -10,9 +10,10 @@ Node version: 20.11.1
 
 ```bash
 cp .env.example .env
-npm i
-npm run migrate
-npm run dev
+pnpm i
+pnpx supabase start
+pnpm run migrate
+pnpm run dev
 ```
 
 ## VS Code Extensions
