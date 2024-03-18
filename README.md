@@ -1,11 +1,19 @@
 # workshop-genai-hubql
 
 
-# Repo
+### Prerequisites
+To be able to run [supabase](https://supabase.com/) please make sure you have [Docker](https://www.docker.com/products/docker-desktop/) installed on your host machine.
 
-pnpm i
+Node version: x.x.x
 
-pnpm dev
+### Local Setup
+
+```bash
+cp .env.example .env
+npm i
+npm run migrate
+npm run dev
+```
 
 ## VS Code Extensions
 
