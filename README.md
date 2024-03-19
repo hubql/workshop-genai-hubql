@@ -37,3 +37,7 @@ ChatGPT
 Perplexity.ai & CodeLlama
 
 Crew AI
+
+## Slides from event
+
+https://www.canva.com/design/DAF_lwtKn1U/--lmr4e99RrRprpPFrZLtg/view?utm_content=DAF_lwtKn1U&utm_campaign=designshare&utm_medium=link&utm_source=editor
